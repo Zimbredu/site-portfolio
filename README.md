@@ -2,9 +2,10 @@
 
 Aprendendo os recursos do  **Git** e **GitHub**.
 
-![logo do github - png](https://github.com/Zimbredu/site-portfolio/assets/66042254/b5146a52-3f27-4f43-90c7-a13e778482a7)
+![pngimg com - github_PNG55_redimensionada](https://github.com/Zimbredu/site-portfolio/assets/66042254/3bc72f85-00d7-4a8d-bd12-cde071e2855b)
 
 
 
 ### Rede social:
-[linkedin](https://www.linkedin.com/in/eduardo-zimbre-desenvolvedor)
+
+[**linkedin**](https://www.linkedin.com/in/eduardo-zimbre-desenvolvedor)
